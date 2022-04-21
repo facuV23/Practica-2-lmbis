@@ -12,3 +12,11 @@ for (int i = 0; i < xn; i++)
 return resutado;
 
 }
+
+int16_t Multiplicar_Sat (int16_t n1, int16_t n2){
+
+int32_t resutado=n1*n2;
+
+return resutado;
+
+}

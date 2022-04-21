@@ -18,5 +18,7 @@ int16_t n=0;
     cout<<"resultado:"<<Sumar_Array(x1,7)<<endl;
     
     
+    cout<<"querio multipicar 2 y 5"<<endl;
+    cout<<"resultado:"<<Multiplicar_Sat(2,5)<<endl;
 
 }
